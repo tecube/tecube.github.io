@@ -22,5 +22,3 @@ Terakawa Shunpei
 
 ### 好きなこと：
 口笛 / 川釣り / フライングディスク / バイクトライアル
-
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
