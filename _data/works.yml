@@ -1,0 +1,82 @@
+- title: ウェアラブルデバイス用アプリ開発のためのダミーデバイス製作
+  in_house_or_not : 受託案件用社内開発
+  about: 他社による本番デバイス開発と並行してスマホアプリ開発を行うための，ダミーデバイスの製作
+  what_i_did: 
+    - 先方の仕様書からアプリ開発に必要な機能を抜き出して実装した
+    - 状態遷移設計・実装
+    - BLEによるコマンド実装
+    - デバッグ用ダミーログ設計
+  keywords: 
+    - BLE
+    - Bluefruit
+    - Arduino
+    - C++
+
+- title: BLDCモータードライブシステムの開発
+  in_house_or_not: ベンチャー企業との共同開発
+  about: 工場内AGV用のモータードライバの開発
+  what_i_did: 
+    - 市販のモータードライバをアブソリュートエンコーダ化
+    - 制御用シリアル通信プロトコルの実装
+    - アプリケーション側Pythonパッケージ開発
+    - ROSノード化・navigation等テスト
+    - 多回転位置制御追加（サーボ化）
+  keywords: 
+    - BLDCモーター
+    - STM32
+    - C
+    - Python
+    - ROS
+    - Eagle
+
+- title: ロボット製作用データロガー開発
+  in_house_or_not: 研究機関からの受託案件
+  about: 複数の子機でセンサ値をAD変換し，Bluetoothで親機が受けてまとめてPCに渡すシステムの開発
+  what_i_did: 
+    - BTモジュールの選定，機能実装
+    - ブレークアウト的なモジュール基板・DFU用書き込みユーティリティ基板等設計
+  keywords:
+    - BLE
+    - ClassicBluetooth
+    - PSoC
+    - LPC Expresso
+    - UDP
+    - C
+    - BGScript
+    - Python
+    - Eagle
+
+- title: 作品展示用ステッピングモーター制御システムの開発
+  in_house_or_not: 自社案件
+  about: Webを介したアート作品の展示に使う回転位置制御システムのドライバ周りを担当
+  what_i_did: 
+    - ステッピングモーターの選定とドライブ回路設計（RasPiシールド化）
+    - ソケットでコマンドを受けてスケジューリングを行うモーター制御ライブラリの開発
+  keywords:
+    - ステッピングモーター
+    - RaspberryPi3
+    - Python
+    - UDP
+    - pigpio
+    - systemctl
+    - Eagle
+
+- title: ヘルスケアデバイスのファームウェア問題調査
+  in_house_or_not: 受託案件
+  about: 開発中製品の引き継ぎ・問題切り分けと原因調査
+  what_i_did: 
+  keywords: 
+    - BLE
+    - PSoC
+    - RaspberryPi3
+    - C
+
+- title: ウェアラブルデバイスのファームウェアプロト開発
+  in_house_or_not: 受託案件
+  about: 脈波計測・データ処理・BLEによる通信部分を，仕様に基づいて実装
+  what_i_did: 
+  keywords: 
+    - Atmel SAM
+    - FFT
+    - BLE
+    - C

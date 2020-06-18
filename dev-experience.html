@@ -1,0 +1,28 @@
+---
+layout: page
+title: 開発経験
+permalink: /dev-experience/
+---
+
+<h3>アルバイト（2017-現在）</h3>
+
+{% for work in site.data.works %}
+    <hr>
+    <h4>{{ work.title }}</h4>
+    <p>
+    {{ work.about }}
+    <ul>
+    {% for item in work.what_i_did %}
+        <li>{{ item }}</li>
+    {% endfor %}  
+    </ul>
+    </p>
+    <p>
+    Keywords:
+    {% for item in work.keywords %}
+        {{ item }} /  
+    {% endfor %}
+    <br>
+    {{ work.in_house_or_not }}
+    </p>
+{% endfor %}
