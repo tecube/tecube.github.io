@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 名前:  
+tecube  
+Terakawa Shunpei
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### やってきたこと：
+個別記事：[研究](/research/) [開発経験](/dev-experience/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+数値計算 / 解析力学 / 微分幾何学 / 波面・特異点（勉強中）  
+楽器の物理シミュレーション / 自動微分による構造保存型数値計算  
+組み込み開発 / ベアメタル / BLE / BLDC制御  
 
 
-[jekyll-organization]: https://github.com/jekyll
+### やりたいこと：
+口笛のエフェクタ開発 / 声帯の物理 / 熱力学 / 有限要素法
+
+
+### 好きなこと：
+口笛 / 川釣り / フライングディスク / バイクトライアル
