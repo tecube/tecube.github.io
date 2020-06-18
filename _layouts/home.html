@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   <h2>News</h2>
-  {% for item in site.data.news %}
+  {% for item in site.data.news reversed %}
     {{ item.year }}.{{ item.month }}.{{ item.day }} {{ item.content }}<br>
   {% endfor %}
 
