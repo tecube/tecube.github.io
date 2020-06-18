@@ -27,7 +27,7 @@ url: "https://tecube.net" # the base hostname & protocol for your site, e.g. htt
 twitter_username: tecube3
 github_username: tecube
 
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "/assets/profile_pic.jpg"
 profile: 適切らしい力を1点に加えているときの感覚が好きです．
 
 profile_links:
@@ -38,8 +38,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    Research: /research/
+    Experience: /experience/
 
 # Build settings
 #theme: minima
