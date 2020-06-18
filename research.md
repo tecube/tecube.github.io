@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 研究
 permalink: /research/
 ---
