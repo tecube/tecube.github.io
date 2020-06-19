@@ -16,7 +16,7 @@ s-terakawa[at]stu.kobe-u.ac.jp
 - 構造保存型数値計算
 - ハミルトン系，シンプレクティック性，連成系
 - ピアノの物理シミュレーション
-- 自動微分，Neural ODE
+- 自動微分，Hamiltonian Neural Network
 
 # Papers  
 - M. Komatsu, S. Terakawa and T. Yaguchi, **Energetic-Property-Preserving Numerical Schemes for Coupled Natural Systems**, Mathematics, 2020, 8, 249.  
