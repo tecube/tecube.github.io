@@ -1,0 +1,12 @@
+- title: 英語学習用Chrome拡張の製作
+  about: Weblio英和検索の履歴を保持し，単語帳アプリへのインポートデータを出力するブラウザ拡張機能を製作
+  keywords: 
+    - Chrome拡張
+    - JavaScript
+    - HTML/CSS
+
+- title: Webカメラ映像にアニメの映像エフェクトを描画するアプリケーションの開発
+  about: 好きなアニメの特徴的なシーンで描写される，人体の特定部位にフレアがオーバーレイされるような処理を，簡単な画像処理によりWebカメラの映像にリアルタイムに行うGUIアプリを開発
+  keywords: 
+    - C#
+    - OpenCVSharp
