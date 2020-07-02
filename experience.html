@@ -28,6 +28,7 @@ permalink: /experience/
 {% for hobby in site.data.hobbies %}
     <h2>{{ hobby.title }}</h2>
     {{ hobby.about }}
+    <br>
     Keywords:
     {% for item in hobby.keywords %}
         {{ item }} /  
