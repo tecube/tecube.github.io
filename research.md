@@ -35,3 +35,4 @@ s-terakawa[at]stu.kobe-u.ac.jp
 
 # Society  
 Acoustical Society of America
+日本応用数理学会
