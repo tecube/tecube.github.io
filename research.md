@@ -23,8 +23,11 @@ s-terakawa[at]stu.kobe-u.ac.jp
 - 自動微分
 
 # Papers  
+- 寺川峻平, 谷口隆晴, **波動方程式と弾性方程式からなる連成系のシンプレクティック性について**, 日本応用数理学会論文誌, 2020, Vol.30, 4, 269-289.
 - M. Komatsu, S. Terakawa and T. Yaguchi, **Energetic-Property-Preserving Numerical Schemes for Coupled Natural Systems**, Mathematics, 2020, 8, 249.  
-- 寺川峻平, 谷口隆晴, **波動方程式と弾性方程式からなる連成系のシンプレクティック性について**, 日本応用数理学会論文誌, 2020, .
+
+# Conferences (Peer-reviewed)  
+- Shunpei Terakawa, Takashi Matsubara, Takaharu Yaguchi, **The Error Analysis of Numerical Integrators for Deep Neural Network Modeling of Differential Equations**, Third Workshop on Machine Learning and the Physical Sciences (NeurIPS 2020), 2020.12.11, Vancouver, Canada.
 
 # Conferences  
 - 寺川峻平,松原崇,谷口隆晴,**常微分方程式モデルの学習における離散化手法の影響について**,日本応用数理学会2020年度 年会,2020.09.08-10,オンライン.
@@ -34,5 +37,5 @@ s-terakawa[at]stu.kobe-u.ac.jp
 - 谷口隆晴,寺川峻平,**自動微分による離散力学とアルゴリズム的数値解析**,2019年度応用数学合同研究集会,2019.12.12-14,滋賀.  
 
 # Society  
-Acoustical Society of America
+Acoustical Society of America  
 日本応用数理学会
