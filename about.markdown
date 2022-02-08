@@ -10,7 +10,7 @@ Terakawa Shunpei
 
 
 ### やったこと
-個別記事：[研究](/research/)  #[開発経験](/experience/)
+個別記事：[研究](/research/)  
 
 
 ### 経歴  
