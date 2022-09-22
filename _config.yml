@@ -91,3 +91,8 @@ google_analytics: UA-170084619-1
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+collections:
+  words:
+    output: true
