@@ -22,8 +22,9 @@ s-terakawa[at]stu.kobe-u.ac.jp
 - ピアノの物理シミュレーション
 
 # Papers  
-- 寺川峻平, 谷口隆晴, **波動方程式と弾性方程式からなる連成系のシンプレクティック性について**, 日本応用数理学会論文誌, 2020, Vol.30, 4, 269-289.
-- M. Komatsu, S. Terakawa and T. Yaguchi, **Energetic-Property-Preserving Numerical Schemes for Coupled Natural Systems**, Mathematics, 2020, 8, 249.  
+- 寺川峻平, 谷口隆晴, **波動方程式と弾性方程式からなる連成系のシンプレクティック性について**, 日本応用数理学会論文誌, 2020, Vol.30, 4.
+- M. Komatsu, S. Terakawa and T. Yaguchi, **Energetic-Property-Preserving Numerical Schemes for Coupled Natural Systems**, Mathematics, 2020, 8, 249.
+- S. Terakawa, T. Yaguchi, **Symplecticity of coupled Hamiltonian systems**, JSIAM Letters, 2022, Vol.14.
 
 # Conferences (Peer-reviewed)  
 - Shunpei Terakawa, Takashi Matsubara, Takaharu Yaguchi, **The Error Analysis of Numerical Integrators for Deep Neural Network Modeling of Differential Equations**, Third Workshop on Machine Learning and the Physical Sciences (NeurIPS 2020), 2020.12.11, Vancouver, Canada.
